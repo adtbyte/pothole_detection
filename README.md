@@ -137,13 +137,11 @@ pip install tensorflow opencv-python-headless numpy pandas scikit-learn streamli
 
 ---
 
-## 🤝 Contributing
+## 🤝 Contribution
 
-1. Fork the repo
-2. Create a new branch (`feature-xyz`)
-3. Commit changes
-4. Push to branch
-5. Open Pull Request
+1. Aditi Kulkarni - Dataset + Coding
+2. Aahna Singh (Team Leader) - Coding
+3. Riya Dhadiwal - Presentation + Coding
 
 ---
 
