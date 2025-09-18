@@ -31,8 +31,10 @@ My Dataset/
 │   ├── Pothole/
 
 ```
+Data is sourced from Kaggle. Images are available in jpeg/png/jpg format. Please use below link to redirect to dataset.
 
-Images are available in jpeg/png/jpg format.
+https://www.kaggle.com/datasets/virenbr11/pothole-and-plain-rode-images
+
 ---
 
 ## ⚙️ Installation
