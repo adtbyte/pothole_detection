@@ -20,7 +20,7 @@ It also highlights potholes on the uploaded image and estimates the **CO₂ savi
 ## 📂 Dataset Structure
 
 The dataset must be organized in the following directory format:
-
+```
 My Dataset/
 │── train/
 │   ├── Plain/
@@ -29,6 +29,8 @@ My Dataset/
 │── test/
 │   ├── Plain/
 │   ├── Pothole/
+
+```
 
 Images are available in jpeg/png/jpg format.
 ---
