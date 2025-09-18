@@ -150,5 +150,3 @@ pip install tensorflow opencv-python-headless numpy pandas scikit-learn streamli
 This project is licensed under the **MIT License**.
 
 ---
-
-Do you also want me to create a **requirements.txt** file for you so the setup is easier?
